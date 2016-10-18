@@ -1,6 +1,7 @@
 # What: Software Carpentry Workshop
 # When: October 18th, 2016
 # Who: Yu-Chen Wang
+# Where: Hatcher Library, UM
 
 ### This is a script for the EEB/SNRE workshop
 
