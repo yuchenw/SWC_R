@@ -3,10 +3,15 @@
 # Who: Yu-Chen Wang
 # Where: Hatcher Library, UM
 
+#######################################################
+
 ### This is a script for the EEB/SNRE workshop
 
 # Clear working space
 rm(list = ls())
+
+# Package Information
+# RSQLite, dplyr, ggplot2, tidyr
 
 # Load packages
 library(RSQLite)
