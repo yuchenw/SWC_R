@@ -5,7 +5,7 @@
 
 #######################################################
 
-### This is a script for the EEB/SNRE workshop
+### This is a script for the SWC workshop
 
 # Clear working space
 rm(list = ls())
